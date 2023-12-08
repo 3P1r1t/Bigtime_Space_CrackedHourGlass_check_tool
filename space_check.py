@@ -24,11 +24,11 @@ headers = {
     "sec-fetch-mode": "cors",
     "sec-fetch-site": "same-site",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
-    "x-client-id": "marketplace",
-    "x-device-id": "you_data_here",
-    "x-is-mobile": "false",
-    "x-session-id": "you_data_here",
-    "x-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "X-client-id": "marketplace",
+    "X-device-id": "you_data_here",
+    "X-is-mobile": "false",
+    "X-session-id": "you_data_here",
+    "X-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
 }
 
 
